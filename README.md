@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Binary Search Tree (BST)</title>
@@ -37,11 +37,6 @@
     
     <h2>Basic Usage</h2>
     <pre>const bst = new BST();
-bst.insert(5);
-bst.insert(3);
-bst.insert(7);
 
-console.log(bst.inOrder()); // [3, 5, 7]
-console.log(bst.contains(4)); // false</pre>
 </body>
 </html>
