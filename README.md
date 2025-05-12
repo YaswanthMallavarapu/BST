@@ -1,8 +1,3 @@
-
-<head>
-    <title>Binary Search Tree (BST)</title>
-    
-</head>
 <body>
     <h1>Binary Search Tree (BST) Implementation</h1>
     
