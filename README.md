@@ -27,6 +27,3 @@
 <h3>4. Level-Order (Breadth-First)</h3>
 <p>Visits nodes level by level</p>
 <pre>Example: [8, 3, 10, 1, 6, 14, 4, 7, 13]</pre>
-
-<h2>Basic Usage</h2>
-<pre>const bst = new BST();
