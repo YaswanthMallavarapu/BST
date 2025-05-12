@@ -1,4 +1,4 @@
-<body>
+
     <h1>Binary Search Tree (BST) Implementation</h1>
     
     <h2>What is a BST?</h2>
@@ -32,5 +32,4 @@
     <h2>Basic Usage</h2>
     <pre>const bst = new BST();
 
-</body>
 
