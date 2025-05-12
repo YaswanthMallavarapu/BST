@@ -1,5 +1,4 @@
 
-<html>
 <head>
     <title>Binary Search Tree (BST)</title>
     
@@ -39,4 +38,4 @@
     <pre>const bst = new BST();
 
 </body>
-</html>
+
